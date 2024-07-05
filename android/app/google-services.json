@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469523068816",
+    "project_id": "sh-n-app",
+    "storage_bucket": "sh-n-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469523068816:android:12175706678392d949e515",
+        "android_client_info": {
+          "package_name": "com.srsr.shikshahelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVoGbJUtPwGp8F-Tn7b5EGI9DRQ853C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
